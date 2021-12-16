@@ -1,0 +1,21 @@
+{
+  "name": "stitches-gatsby-getcss",
+  "version": "1.0.0",
+  "author": "Markos Konstantopoulos",
+  "license": "MIT",
+  "scripts": {
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@stitches/react": "^1.2.6",
+    "gatsby": "^4.4.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  }
+}
